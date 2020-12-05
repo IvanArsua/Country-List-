@@ -1,0 +1,13 @@
+﻿<Window x:Class="Country_List.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Country_List"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1060.5" Width="401">
+    <Grid>
+        <ListBox x:Name="lstCountries" HorizontalAlignment="Left" Height="972" Margin="23,26,0,0" VerticalAlignment="Top" Width="344"/>
+
+    </Grid>
+</Window>

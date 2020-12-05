@@ -1,0 +1,20 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\Country List.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\Country List.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\Country List.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country_List.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\RestSharp.dll
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\bin\Debug\RestSharp.xml
+C:\Users\Dell\Documents\Major-ICT Activties\Country List\Country List\Country List\obj\Debug\Country List.csproj.CopyComplete
